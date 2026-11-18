@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.env
+.vscode/
+
+# Virtual environments
+.venv/
+*.py[cod]
+
+# Локальні файли бази даних SQL
+database/*.db
+database/*.sqlite3
+*.sqlite
+cv.db
+*.db
+CV_*.pdf
